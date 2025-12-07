@@ -30,11 +30,9 @@ Make sure the **gemma3** model is available locally. If not, pull it with:
 ollama pull gemma3
 ```
 
-### ✔️ **3. Virtual environment (recommended)**
+### **3. Virtual environment (recommended)**
 
 Using a virtual environment keeps dependencies isolated.
-
----
 
 ## Installation & Setup
 
